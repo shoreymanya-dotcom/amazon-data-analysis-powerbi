@@ -13,4 +13,4 @@ This project analyzes amazon product data to understand pricing , discounts and 
  Discount Strategies vary across categories.
  Significant gap between actual and discounted prices.
  Dasboard preview !
-
+![Dashboard ](https://github.com/shoreymanya-dotcom/amazon-data-analysis-powerbi/blob/main/Screenshot%202026-03-28%20133626.png)

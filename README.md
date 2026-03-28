@@ -12,3 +12,5 @@ This project analyzes amazon product data to understand pricing , discounts and 
  High average rating indicates strong customer satisfaction 
  Discount Strategies vary across categories.
  Significant gap between actual and discounted prices.
+ Dasboard preview !
+
